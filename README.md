@@ -13,4 +13,18 @@ The rules of the Tower of Hanoi puzzle are as follows:
     
 ## Working:
 Two functions:
-1. hanoi() uses recursion to 
+
+1. hanoi(n, f, h, t): use recursion to move disks from f to t using h as helper 
+
+
+    * n as number of disks
+    * f as from 
+    * h as helper position
+    * t as target
+2. move(f,t): just outputs the disks on each step of recursion
+
+    * f as from
+    * t as to
+# Run
+To run this you just need python.
+```python Tower-of-hanoi-Recursion-Python.py```
