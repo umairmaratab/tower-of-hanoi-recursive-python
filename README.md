@@ -1,0 +1,16 @@
+![ALT Text](https://media.geeksforgeeks.org/wp-content/uploads/tower-of-hanoi.png)
+
+# Tower of Hanoi
+The <b>Tower of Hanoi</b> is a classic puzzle that involves moving disks from one peg to another peg while following specific rules. 
+The puzzle consists of three pegs and a number of disks of different sizes, 
+which can be stacked in decreasing order of size on any peg.
+
+The rules of the Tower of Hanoi puzzle are as follows:
+
+    1. Only one disk can be moved at a time.
+    2. Each move consists of taking the top disk from one of the stacks and placing it on top of another stack.
+    3. A larger disk cannot be placed on top of a smaller disk.
+    
+## Working:
+Two functions:
+1. hanoi() uses recursion to 
