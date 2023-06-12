@@ -2,7 +2,7 @@
 
 # Tower of Hanoi
 The <b>Tower of Hanoi</b> is a classic puzzle that involves moving disks from one peg to another peg while following specific rules. 
-The puzzle consists of three pegs and a number of disks of different sizes, 
+The puzzle consists of three pegs and a number of disks of different sizes (disks can be of 1 to n numbers), 
 which can be stacked in decreasing order of size on any peg.
 
 The rules of the Tower of Hanoi puzzle are as follows:
